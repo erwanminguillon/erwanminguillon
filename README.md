@@ -12,13 +12,13 @@ I like systems that are not just “working on my machine”, but actually expla
 > - secrets leak if you let them,
 > - databases sleep when you need them,
 > - deployments fail at the least poetic moment,
-> - and future-me deserves documentation.
+> - documentation that may or may not make sense after 2 months.
 
-I am especially interested in the boring-but-critical parts of security engineering: access control, logging, deployment safety, recovery, and knowing exactly where secrets are not supposed to be. Although nothing is boring when it comes to cloud hehe.
+I am especially interested in the boring-but-critical parts of security engineering: access control, logging, deployment safety, recovery, and knowing exactly where secrets are not supposed to be. Although, nothing is boring when it comes to cloud technologies hehe.
 
 ## Flagship project: Secure Serverless Incident Portal
 
-My main project right now is **Secure Serverless Incident Portal**, or **SSIP**.
+My main project right now is **Secure Serverless Incident Portal** (or **SSIP**).
 
 SSIP is a cloud-native incident reporting and SOC triage platform built on Azure.
 
@@ -28,7 +28,7 @@ It started as a simple idea:
 What would a small but realistic security incident portal look like if I had to design, deploy, secure, and document it properly?
 ```
 
-It turned into a full-stack Azure project with:
+Eventually, it turned into a full-stack Azure project with:
 
 - public incident submission,
 - public incident tracking,
