@@ -27,7 +27,8 @@ SSIP is a cloud-native incident reporting and SOC triage platform built on Azure
 It started as a simple idea:
 
 ```text
-What would a small but realistic security incident portal look like if I had to design, deploy, secure, and document it properly?
+What would a small but realistic security incident portal look like,
+if I had to design, deploy, secure, and document it properly?
 ```
 
 Eventually, it turned into a full-stack Azure project with:
