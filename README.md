@@ -1,31 +1,21 @@
 # Erwan Minguillon
 
+https://img.shields.io/badge/GitHub-erwanminguillon-181717?style=flat&logo=github](https://github.com/erwanminguillon)
+https://img.shields.io/badge/LinkedIn-Erwan%20Minguillon-0A66C2?style=flat&logo=linkedin](https://www.linkedin.com/in/erwan-minguillon)
+https://img.shields.io/badge/Focus-Cloud%20Security%20%7C%20SOC%20%7C%20Azure-0078D4?style=flat](#)
+https://img.shields.io/badge/Flagship-SSIP-004578?style=flat](https://github.com/erwanminguillon/secure-serverless-incident-portal)
+
 I am a cybersecurity and cloud security student building projects around Azure, SOC workflows, and secure application design.
 
 I like systems that are not just “working on my machine”, but actually explainable, deployable, recoverable, and reasonably hard to break.
 
-Most of my current work sits somewhere between:
-
-```text
-cloud security
-application security
-incident response
-serverless architecture
-documentation that future-me will not hate
-```
-
-## What I am currently focused on
-
-Right now, I am building practical security projects around:
-
-- SOC analyst workflows
-- Azure Functions and Azure SQL
-- secure backend authentication
-- serverless application design
-- infrastructure-as-code with Bicep
-- GitHub Actions deployments with Azure OIDC
-- secret handling and restore procedures
-- OWASP-oriented web application security
+> I like projects that survive contact with reality:
+>
+> - users click weird things,
+> - secrets leak if you let them,
+> - databases sleep when you need them,
+> - deployments fail at the least poetic moment,
+> - and future-me deserves documentation.
 
 I am especially interested in the boring-but-critical parts of security engineering: access control, logging, deployment safety, recovery, and knowing exactly where secrets are not supposed to be. Although nothing is boring when it comes to cloud hehe.
 
