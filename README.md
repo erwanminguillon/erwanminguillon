@@ -2,6 +2,8 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-erwanminguillon-181717?style=flat&logo=githubithub.com/erwanminguillon)
 
+Greetings from the cloud!
+
 I am a cybersecurity and cloud security student building projects around Azure, SOC workflows, and secure application design.
 
 I like systems that are not just “working on my machine”, but actually explainable, deployable, recoverable, and reasonably hard to break.
