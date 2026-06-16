@@ -27,7 +27,7 @@ Right now, I am building practical security projects around:
 - secret handling and restore procedures
 - OWASP-oriented web application security
 
-I am especially interested in the boring-but-critical parts of security engineering: access control, logging, deployment safety, recovery, and knowing exactly where secrets are not supposed to be.
+I am especially interested in the boring-but-critical parts of security engineering: access control, logging, deployment safety, recovery, and knowing exactly where secrets are not supposed to be. Although nothing is boring when it comes to cloud hehe.
 
 ## Flagship project: Secure Serverless Incident Portal
 
@@ -189,7 +189,7 @@ https://www.linkedin.com/in/erwan-minguillon
 
 ## Start here
 
-If you only look at one thing, start with SSIP:
+And hey if you're here, you might as well take a look at SSIP:
 
 ```text
 https://github.com/erwanminguillon/secure-serverless-incident-portal
