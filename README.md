@@ -1,9 +1,6 @@
 # Erwan Minguillon
 
-https://img.shields.io/badge/GitHub-erwanminguillon-181717?style=flat&logo=github](https://github.com/erwanminguillon)
-https://img.shields.io/badge/LinkedIn-Erwan%20Minguillon-0A66C2?style=flat&logo=linkedin](https://www.linkedin.com/in/erwan-minguillon)
-https://img.shields.io/badge/Focus-Cloud%20Security%20%7C%20SOC%20%7C%20Azure-0078D4?style=flat](#)
-https://img.shields.io/badge/Flagship-SSIP-004578?style=flat](https://github.com/erwanminguillon/secure-serverless-incident-portal)
+![GitHub](https://img.shields.io/badge/GitHub-erwanminguillon-181717?style=flat&logo=githubithub.com/erwanminguillon)
 
 I am a cybersecurity and cloud security student building projects around Azure, SOC workflows, and secure application design.
 
